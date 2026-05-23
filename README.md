@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/friday-night-fireflies/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Friday Night Fireflies](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/friday-night-fireflies/) |
+| **Get License** | [Obtain a Music License for Friday Night Fireflies](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/friday-night-fireflies/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/1958)
 
 ---
 
