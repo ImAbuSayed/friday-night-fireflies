@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/friday-night-fireflies/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Friday Night Fireflies](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/friday-night-fireflies/) |
+| **Get License** | [Get a Licensing Quote for Friday Night Fireflies](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/friday-night-fireflies/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Midnight driving with my hand resting high on your thigh
+> Just the rhythm of the road underneath the dark sky
+> You're looking at me with a slow-burning heat in your eyes
+> Lighting up the darkness like Friday night fireflies
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
